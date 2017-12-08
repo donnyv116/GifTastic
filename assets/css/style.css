@@ -10,6 +10,8 @@ form,
 .showBtn {
     background-color: grey;
     color: white;
+    border: ridge;
+    border-color: black;
 }
 
 form {
@@ -28,7 +30,7 @@ form {
 #addShow {
     background-color: white;
     color: grey;
-    border: none;
+    border: ridge;
 }
 
 input {
@@ -36,7 +38,8 @@ input {
 }
 
 button {
-    border: none;
+    border: ridge;
+    border-color: black;
 }
 
 #TVButtons {
@@ -48,6 +51,3 @@ button {
     margin: 3px;
 }
 
-#giphyLogo {
-    margin: 20px;
-}
